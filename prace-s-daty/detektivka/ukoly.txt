@@ -1,0 +1,71 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+        ATRUIBUTY: RHA
+        VYTVOØENO: støeda 6. listopadu 2024, 9:08:47
+        ZMÌNÌNO: pátek 19. øíjna 2012, 22:25:32
+    
+    b) V jakém znakovém kódování je uložen?
+        Hexadecimální
+        
+    c) V jakém jazyce je napsán jeho obsah?
+        Japonština
+        
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+        TEXT:
+        ZDROJ: 
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+        ROZMÌRY: 1366x768pixelù
+        
+    b) Jak se jmenuje mìsto na obrázku?
+        NÁZEV: Nairobi
+        
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+        KONTINENT: Afrika
+        STÁT: Kenya
+        
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+        GPS: 01°18'00.0"S, 36°48'47.0"E
+        
+    e) Co se v této budovì nachází?
+        BUDOVA: Vìž se skládá z nìkolika obchodních jednotek v pøízemí,
+         30 pater kanceláøských prostor a servisního podlaží.
+         
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+        BITOVÁ HLOUBKA: 24
+        ROZLIŠENÍ: 72dpi
+        
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?
+        JMÉNO: Katalin
+        PØÍJMENÍ: Novák
+        NÁRODNOST: Maïarská
+        POVOLÁNÍ: Bývalá prezidentka maïarska
+        
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+        INSTAGRAM: https://www.instagram.com/katalin.novak/?hl=en
+        
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+        ÈLÁNEK: https://www.novinky.cz/tag/katalin-novak-106060
+        
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+        BITOVÁ HLOUBKA: 8
+        ROZMÌRY: 580x387pixelù
+        
+    b) Vlajka kterého státu je na obrázku?
+        STÁT: Bhútán
+         
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+        ROZLOHA: 38 394km2
+        POÈET OBYVATEL: 741 700
+        HLAVNÍ MÌSTO: Thimphu
+    
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.
+        RBB hex. 1. trojú.: #0x#ffd520
+        RBB hex. 2. trojú.: #0xff4e12
+        
+        RBB des. 1. trojú.: R-255 G-213 B-32  
+        RBB des. 2. trojú.: R-255 G-78 B-18
